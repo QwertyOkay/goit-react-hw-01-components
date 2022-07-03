@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QwertyOkay/goit-react-hw-01-components/static/css/main.931eedb5.css",
+    "main.js": "/QwertyOkay/goit-react-hw-01-components/static/js/main.76535f47.js",
+    "index.html": "/QwertyOkay/goit-react-hw-01-components/index.html",
+    "main.931eedb5.css.map": "/QwertyOkay/goit-react-hw-01-components/static/css/main.931eedb5.css.map",
+    "main.76535f47.js.map": "/QwertyOkay/goit-react-hw-01-components/static/js/main.76535f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.931eedb5.css",
+    "static/js/main.76535f47.js"
+  ]
+}
